@@ -10,5 +10,5 @@
   ],
   "repository": "graysonhicks/gatsby-plugin-error-pages",
   "keywords": ["gatsby", "gatsby-plugin", "plugin", "error", "custom", "http codes", "404", "500", "403"],
-  "license": "MIT",
+  "license": "MIT"
 }
