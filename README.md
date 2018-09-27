@@ -1,0 +1,1 @@
+# gatsby-plugin-error-pages
