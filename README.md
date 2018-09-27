@@ -33,4 +33,4 @@ Note that this plugin does not stop the route from automatically being created, 
 ### About
 Normally, for any file listed in the `src/pages/` directory, Gatsby creates a route for that page, like `src/pages/search.js` becomes `/search/` when your site is published.  One exception to this is the `404` page, which Gatsby grabs and also creates a `/404.html` file at the root of the `public` directory.  Most servers automatically look for HTTP error codes at their root, so if it returns 404, then the `404.html` is there and served.
 
-This plugin does the same thing for whatever other HTTP error codes you wish to list.  So if you want a custom 500 error page.  Add a `500.js` in pages, and Gatsby will generate a `500.html` at the root, which your server should serve in case of a 500 error.
+This plugin does the same thing for whatever other HTTP error codes you wish.  So if you want a custom 500 error page, add a `500.js` in pages, and Gatsby will generate a `500.html` at the root, which your server should serve in case of a 500 error.
