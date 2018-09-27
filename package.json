@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-plugin-error-pages",
+  "version": "1.0.0",
+  "description": "Gatsby plugin to create custom error pages for HTTP error codes (i.e. 500.html).",
+  "author": "Grayson Hicks <graysonhicks@gmail.com>",
+  "main": "gatsby-node.js",
+  "files": [
+    "gatsby-node.js",
+    "README.md"
+  ],
+  "repository": "graysonhicks/gatsby-plugin-error-pages",
+  "keywords": ["gatsby", "gatsby-plugin", "plugin", "error", "custom", "http codes", "404", "500", "403"],
+  "license": "MIT",
+}
